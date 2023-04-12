@@ -1,0 +1,12 @@
+{
+  "name": "com.gelang.prefabify",
+  "version": "0.1.0",
+  "displayName": "Prefabify",
+  "description": "Convert any GameObject to a prefab. Useful when you've put 300 trees in a scene and then realized you should've made it a prefab.",
+ "keywords": [
+    "replace",
+    "convert",
+    "prefab",
+    "gameobject"
+  ]
+}
